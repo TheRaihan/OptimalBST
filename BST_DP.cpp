@@ -1,6 +1,6 @@
 //  c(i,j) = min {c(i,k-1)+c(k,j+w(i,j)}
 #include<bits/stdc++.h>
-#define fin             freopen("input2.txt", "r", stdin)
+#define fin             freopen("input.txt", "r", stdin)
 #define fout            freopen("output.txt", "w", stdout)
 #define F               first
 #define S               second
